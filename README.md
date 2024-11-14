@@ -1,4 +1,4 @@
-[![header](./banner.png)]
+![header](./banner.png)
 
 # 💫 About Me:
 Hey There !!! I'm Sparsh, an app developer hooked on Flutter and Java, now tackling web dev with JavaScript and React (sleep is optional!). <br>I’m passionate about building efficient and user-friendly apps, always striving for clean code and better performance.<br>A Linux enthusiast, always ready to fix bugs head-on. When I'm not coding, I'm thinking about AI or blockchain changing the world. <br>Let’s connect before the robots do!
